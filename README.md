@@ -46,3 +46,12 @@ See the License for the specific language governing permissions and
 limitations under the License.
 About
 This is a simple android todo app with add item, delete item and update item feature set
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
