@@ -5,13 +5,13 @@ Submitted by: famin63
 
 Time spent: 12 hours spent in total
 
-User Stories
+# User Stories
 The following required functionality is completed:
 
- User can successfully add and remove items from the todo list
- User can tap a todo item in the list and bring up an edit screen for the todo item and then have any changes to the text reflected in the todo list.
- User can persist todo items and retrieve them properly on app restart
-The following optional features are implemented:
+- [x] User can successfully add and remove items from the todo list
+- [x] User can tap a todo item in the list and bring up an edit screen for the todo item and then have any changes to the text reflected in the todo list.
+- [x] User can persist todo items and retrieve them properly on app restart
+
 
  Persist the todo items into SQLite instead of a text file
  Improve style of the todo items in the list using a custom adapter
@@ -46,12 +46,3 @@ See the License for the specific language governing permissions and
 limitations under the License.
 About
 This is a simple android todo app with add item, delete item and update item feature set
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
