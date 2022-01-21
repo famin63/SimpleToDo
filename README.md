@@ -14,8 +14,7 @@ The following required functionality is completed:
 
 # Video Walkthrough
 
-Notes
-Describe any challenges encountered while building the app. Was confused to see the app design view differed from one in the tutorial. After a while learnt to look past it and focus more on the xml file. Getting used to the xml config file but once App window sizing and orientation hierarchy Figuring out scrollbar feature if any was needed. Setting properties in variables No Error handling learnings Adding Calendar to get a list view with dates Syncing the android project with github
+
 
 # License
 Copyright [yyyy] [name of copyright owner]
